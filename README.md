@@ -17,11 +17,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+- I'm Pursuing my Bachelor in Artificial Intelligence.
+
+- I'm learning how to build Communication Skill
+
+- I'm learning Techniques of Search Engine Optimization 
 
 <br><br>
 
@@ -37,6 +38,9 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Html](https://img.shields.io/badge/Html%20-%2314354C.svg?style=for-the-badge&logo=html&logoColor=white)
+    ![CSS](https://img.shields.io/badge/Css%20-%2314354C.svg?style=for-the-badge&logo=css&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascrpit&logoColor=white)
 
 <br>   
     
@@ -73,23 +77,7 @@
 </p>
 
 <br>
-<br>
 
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
 </div>
 
 <br>
@@ -100,6 +88,7 @@
 
 <br>
 <br>
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -138,20 +127,42 @@
 <br>
 <br>
 
-<div align='center'>
+<div align='left'>
+	
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-</div>
-<br>
-<br>
-<br>
-<br>
+----	
 
----
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiz-Malik&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
-<br>
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiz-Malik&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiz-Malik&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+<br/>
 
-Last Edited on: 09/11/2022
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Awaiz-Malik&theme=github)](https://github.com/Awaiz-Malik/github-readme-activity-graph)
+
+ 
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	

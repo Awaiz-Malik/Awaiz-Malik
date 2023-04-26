@@ -61,18 +61,18 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-854cc7?style=for-the-badge&logo=visualstudio&logoColor=b179f1)
+    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-b179f1?style=for-the-badge&logo=visualstudio&logoColor=white)
     <br>
-    ![Manjaro](https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=green)
-    ![PyCharm](https://img.shields.io/badge/PyCharm-62dc78?style=for-the-badge&logo=pycharm&logoColor=black)
+    ![Manjaro](https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/PyCharm-62dc78?style=for-the-badge&logo=pycharm&logoColor=white)
+    ![MiniConda](https://img.shields.io/badge/MiniConda-3eb049?style=for-the-badge&logo=anaconda&logoColor=white)
     ![CMake](https://img.shields.io/badge/CMake-white?style=for-the-badge&logo=cmake&logoColor=black)
-    ![MiniConda](https://img.shields.io/badge/MiniConda-white?style=for-the-badge&logo=anaconda&logoColor=3eb049)
 
 <br>
 
 - **Extras**:
 
-    ![GNOME Terminal](https://img.shields.io/badge/GNOME-white?style=for-the-badge&logo=gnome&logoColor=black)
+    ![GNOME Terminal](https://img.shields.io/badge/GNOME-black?style=for-the-badge&logo=gnome&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 

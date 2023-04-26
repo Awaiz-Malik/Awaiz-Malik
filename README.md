@@ -11,9 +11,9 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Awaiz-Malik/Awaiz-Malik/blob/master/Images/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Awaiz-Malik/Awaiz-Malik/blob/master/Images/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -66,7 +66,10 @@
     ![Manjaro](https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/PyCharm-62dc78?style=for-the-badge&logo=pycharm&logoColor=white)
     ![MiniConda](https://img.shields.io/badge/MiniConda-3eb049?style=for-the-badge&logo=anaconda&logoColor=white)
-    ![CMake](https://img.shields.io/badge/CMake-white?style=for-the-badge&logo=cmake&logoColor=black)
+    ![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake&logoColor=white)
+    <br>
+    ![Colab](https://img.shields.io/badge/Google%20Colaboratory-f9ab00?style=for-the-badge&logo=googlecolab&logoColor=white)
+    ![Jupyter](https://img.shields.io/badge/Juputer%20Notebook-f37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br>
 
@@ -84,7 +87,6 @@
 
 <br>
 <br>
-<br>
 
 -----
 
@@ -92,7 +94,7 @@
 <br>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Awaiz-Malik/Awaiz-Malik/blob/master/Images/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -131,13 +133,13 @@
 
 <div align='left'>
 	
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/Awaiz-Malik/Awaiz-Malik/blob/master/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiz-Malik&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiz-Malik&theme=tokyonight_duo" alt="Awaiz" /></p>
 
 </details>
   
@@ -147,8 +149,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiz-Malik&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiz-Malik&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="Awaiz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiz-Malik&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiz-Malik&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Awaiz" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -159,7 +161,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Awaiz-Malik&theme=github)](https://github.com/Awaiz-Malik/github-readme-activity-graph)
+[![Awaiz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Awaiz-Malik&theme=github)](https://github.com/Awaiz-Malik/github-readme-activity-graph)
 
  
 </details>

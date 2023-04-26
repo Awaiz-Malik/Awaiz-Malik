@@ -150,7 +150,7 @@
 
 <li>
 <a href="mailto:awaiz_malik@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/outlook:  Muhammad Awaiz Qayyum Malik-%2300acee.svg?color=00a2ed&style=for-the-badge&logo=outlook&logoColor=white" alt=microsoft-outlook style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/outlook:  Muhammad Awaiz Qayyum Malik-%2300acee.svg?color=00a2ed&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=outlook style="margin-bottom: 5px;"/>
 </a>
 </li>
 

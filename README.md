@@ -110,7 +110,7 @@
 
 <li>
 <a href="https://twitter.com/__awaizmalik__" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  Muhammad Awaiz Qayyum Malik-%2300acee.svg?color=00acee&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -118,7 +118,7 @@
 
 <li>
 <a href="https://www.instagram.com/__awaizmalik__/" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram:  Muhammad Awaiz Qayyum Malik-%2300acee.svg?color=d43d72&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -126,7 +126,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/muhammed-awaiz-6a4207216/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Muhammad Awaiz Qayyum Malik-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -134,7 +134,7 @@
 
 <li>
 <a href="https://www.reddit.com/user/Seven_Nation_Army619" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/reddit:  Muhammad Awaiz Qayyum Malik-%2300acee.svg?color=FF4500&style=for-the-badge&logo=reddit&logoColor=white" alt=reddit style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -142,7 +142,7 @@
 
 <li>
 <a href="mailto:waizymalik101@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Muhammad Awaiz Qayyum Malik-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -150,7 +150,7 @@
 
 <li>
 <a href="mailto:awaiz_malik@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/outlook:  Muhammad Awaiz Qayyum Malik-%2300acee.svg?color=00a2ed&style=for-the-badge&logo=outlook&logoColor=white" alt=microsoft-outlook style="margin-bottom: 5px;"/>
 </a>
 </li>
 

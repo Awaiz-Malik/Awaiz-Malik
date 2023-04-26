@@ -166,3 +166,17 @@
 
 ----
 	
+<div>
+  <p align="center">
+	<a href="https://github.com/Awaiz-Malik/Linear_Regression_Analysis">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Linear_Regression_Analysis&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Awaiz-Malik/Simple-Linear_Regression-Using-NumPy-and-Scikit-Learn">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Simple-Linear_Regression-Using-NumPy-and-Scikit-Learn&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Awaiz-Malik/Browser_Custom_Homepage">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Browser_Custom_Homepage&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+     </p>
+   </div>
+ </details>

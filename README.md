@@ -24,6 +24,8 @@
 
 - I'm learning Techniques of Search Engine Optimization 
 
+<img src="https://komarev.com/ghpvc/?username=Awaiz-Malik&label=Profile%20views&color=0047AB&style=plastic" alt="Awaiz" height=25px, width=160px/>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

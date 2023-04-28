@@ -23,10 +23,8 @@
 - I'm learning how to build Communication Skill
 
 - I'm learning Techniques of Search Engine Optimization 
-
-<p align="center">
+<br>
 <img src="https://komarev.com/ghpvc/?username=Awaiz-Malik&label=Profile%20views&color=0047AB&style=plastic" alt="Awaiz" height=25px, width=160px />
-</p>
 
 <br><br>
 

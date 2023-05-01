@@ -26,6 +26,11 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=Awaiz-Malik&label=Profile%20views&color=0047AB&style=plastic" alt="Awaiz" height=25px, width=160px />
 
+<!--
+## Thank you for visiting my profile. You're a gem. :gem:
+![Visitor Count](https://profile-counter.glitch.me/Awaiz-Malik/count.svg)
+-->
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

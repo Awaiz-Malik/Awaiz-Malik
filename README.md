@@ -24,7 +24,10 @@
 
 - I'm learning Techniques of Search Engine Optimization 
 <br>
+
+<!--
 <img src="https://komarev.com/ghpvc/?username=Awaiz-Malik&label=Profile%20views&color=0047AB&style=plastic" alt="Awaiz" height=25px, width=160px />
+-->
 
 ## Thank you for visiting my profile. You're a gem. :gem:
 ![Visitor Count](https://profile-counter.glitch.me/Awaiz-Malik/count.svg)

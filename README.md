@@ -203,7 +203,7 @@
 
 ----
 	
-[![Awaiz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Awaiz-Malik&theme=github)](https://github.com/Awaiz-Malik/github-readme-activity-graph)
+[![Awaiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Awaiz-Malik&custom_title=Awaiz%20Malik%&hide_border=true&bg_color=1A1B27&title_color=6DA7F2&color=38BDAE&point=F24B88&line=6DA7F2)](https://github.com/Awaiz-Malik/github-readme-activity-graph)
 
  
 </details>

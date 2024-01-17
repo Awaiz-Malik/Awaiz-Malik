@@ -223,6 +223,12 @@
     	<a href="https://github.com/Awaiz-Malik/Browser_Custom_Homepage">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Browser_Custom_Homepage&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/Awaiz-Malik/Speech-to-Text_Robot_Control_with_Whisper_and_Arduino">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Speech-to-Text_Robot_Control_with_Whisper_and_Arduino&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Awaiz-Malik/Meteorite-Landing-Prediction">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Meteorite-Landing-Prediction&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
      </p>
    </div>
  </details>

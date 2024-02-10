@@ -22,7 +22,8 @@
 
 - I'm learning how to build Communication Skill
 
-- I'm learning Techniques of Search Engine Optimization 
+- I'm learning Techniques of Machine Learning and Neural Networks
+
 <br>
 
 <!--
@@ -228,6 +229,9 @@
     	</a>
 	<a href="https://github.com/Awaiz-Malik/Meteorite-Landing-Prediction">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Meteorite-Landing-Prediction&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Awaiz-Malik/Python-3-Programming-Specialization-By-University-of-Michigan">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Awaiz-Malik&repo=Python-3-Programming-Specialization-By-University-of-Michigan&theme=tokyonight" alt="GitHub Stats" />
     	</a>
      </p>
    </div>
